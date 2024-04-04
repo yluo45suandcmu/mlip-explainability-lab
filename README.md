@@ -15,9 +15,11 @@ Clone [this](https://github.com/eshetty/mlip-explainability-lab) repository and 
 
 ### Install Dependencies
 
-For this assignment you will require alibi, scikit-learn, numpy, and pandas. Make sure you have these packages installed.
-
-`pip install alibi`
+For this assignment, make sure you have the required packages installed.
+```
+pip install -r requirements.txt
+```
+_(If there are any major unsolvable issues prefer running this notebook on Google Colaboratory)_
 
 ### Possible Issues with installing Alibi
 `TypeError: issubclass() arg 1 must be a class` \
